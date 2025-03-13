@@ -1,0 +1,14 @@
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\bin\Debug\net6.0\SoulForge.deps.json
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\bin\Debug\net6.0\SoulForge.dll
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\bin\Debug\net6.0\SoulForge.pdb
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\bin\Debug\net6.0\Bloody.Core.dll
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\SoulForge.csproj.AssemblyReference.cache
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\SoulForge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\SoulForge.AssemblyInfoInputs.cache
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\SoulForge.AssemblyInfo.cs
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\SoulForge.csproj.CoreCompileInputs.cache
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\SoulForge.csproj.Up2Date
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\SoulForge.dll
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\refint\SoulForge.dll
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\SoulForge.pdb
+C:\Users\Darrean\source\repos\PublicMods\SoulForge\SoulForge\obj\Debug\net6.0\ref\SoulForge.dll
