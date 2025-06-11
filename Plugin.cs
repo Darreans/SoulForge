@@ -6,7 +6,7 @@ using Stunlock.Core;
 
 namespace SoulForge
 {
-    [BepInPlugin("SoulForge", "SoulForge", "2.0.0")] 
+    [BepInPlugin("SoulForge", "SoulForge", "2.0.1")] 
     public class Plugin : BasePlugin
     {
         private Harmony _harmony;

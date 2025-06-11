@@ -29,7 +29,7 @@ namespace SoulForge
         public static PrefabGUID HorrorShardItem = new PrefabGUID(-1260254082);
         public static PrefabGUID HorrorGlowBuff = new PrefabGUID(1670636401);
 
-        public static PrefabGUID SolarusShardItem = new PrefabGUID(-21943750);
+        public static PrefabGUID SolarusShardItem = new PrefabGUID(-1559874083);
         public static PrefabGUID SolarusGlowBuff = new PrefabGUID(1688799287);
 
         public static PrefabGUID MorganaShardItem = new PrefabGUID(1286615355);
